@@ -4,4 +4,4 @@
 
 ## Tecnologias usadas: 
 - Robot Framework;
-- Selenium Library; 
+- Selenium Library.
